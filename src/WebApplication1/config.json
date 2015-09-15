@@ -1,0 +1,12 @@
+﻿{
+  "AppSettings": {
+    "SMTPIP":  "10.0.0.1",
+    "SMTPID":  "will",
+    "SMTPPW":  "123456"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-WebApplication1-ab3edd71-4560-461c-aebe-070933d3fd32;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
